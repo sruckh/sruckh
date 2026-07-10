@@ -1,0 +1,6 @@
+# Serena agent config + memories — local tooling, not profile content
+.serena/
+
+# OS cruft
+.DS_Store
+Thumbs.db
