@@ -1,3 +1,5 @@
+<!-- Gemneye · github.com/sruckh · profile README -->
+
 <div align="center">
 
 <img src="assets/github-profile.jpg" alt="Gemneye banner" width="100%" />
